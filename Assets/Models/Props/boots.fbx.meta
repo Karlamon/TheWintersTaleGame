@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 42bb7ea0e6cc64d49814671540bc85f6
+timeCreated: 1506377164
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antigonous_19_RIG__1_:Head
+    100002: Antigonous_19_RIG__1_:Hips
+    100004: Antigonous_19_RIG__1_:LeftArm
+    100006: Antigonous_19_RIG__1_:LeftFoot
+    100008: Antigonous_19_RIG__1_:LeftForeArm
+    100010: Antigonous_19_RIG__1_:LeftHand
+    100012: Antigonous_19_RIG__1_:LeftLeg
+    100014: Antigonous_19_RIG__1_:LeftShoulder
+    100016: Antigonous_19_RIG__1_:LeftToeBase
+    100018: Antigonous_19_RIG__1_:LeftUpLeg
+    100020: Antigonous_19_RIG__1_:Neck
+    100022: Antigonous_19_RIG__1_:QuickRigCharacter_Guides
+    100024: Antigonous_19_RIG__1_:QuickRigCharacter_Head
+    100026: Antigonous_19_RIG__1_:QuickRigCharacter_Hips
+    100028: Antigonous_19_RIG__1_:QuickRigCharacter_LeftArm
+    100030: Antigonous_19_RIG__1_:QuickRigCharacter_LeftFoot
+    100032: Antigonous_19_RIG__1_:QuickRigCharacter_LeftForeArm
+    100034: Antigonous_19_RIG__1_:QuickRigCharacter_LeftHand
+    100036: Antigonous_19_RIG__1_:QuickRigCharacter_LeftLeg
+    100038: Antigonous_19_RIG__1_:QuickRigCharacter_LeftShoulder
+    100040: Antigonous_19_RIG__1_:QuickRigCharacter_LeftToeBase
+    100042: Antigonous_19_RIG__1_:QuickRigCharacter_LeftUpLeg
+    100044: Antigonous_19_RIG__1_:QuickRigCharacter_Neck
+    100046: Antigonous_19_RIG__1_:QuickRigCharacter_Reference
+    100048: Antigonous_19_RIG__1_:QuickRigCharacter_RightArm
+    100050: Antigonous_19_RIG__1_:QuickRigCharacter_RightFoot
+    100052: Antigonous_19_RIG__1_:QuickRigCharacter_RightForeArm
+    100054: Antigonous_19_RIG__1_:QuickRigCharacter_RightHand
+    100056: Antigonous_19_RIG__1_:QuickRigCharacter_RightLeg
+    100058: Antigonous_19_RIG__1_:QuickRigCharacter_RightShoulder
+    100060: Antigonous_19_RIG__1_:QuickRigCharacter_RightToeBase
+    100062: Antigonous_19_RIG__1_:QuickRigCharacter_RightUpLeg
+    100064: Antigonous_19_RIG__1_:QuickRigCharacter_Spine
+    100066: Antigonous_19_RIG__1_:QuickRigCharacter_Spine1
+    100068: Antigonous_19_RIG__1_:QuickRigCharacter_Spine2
+    100070: Antigonous_19_RIG__1_:Reference
+    100072: Antigonous_19_RIG__1_:RightArm
+    100074: Antigonous_19_RIG__1_:RightFoot
+    100076: Antigonous_19_RIG__1_:RightForeArm
+    100078: Antigonous_19_RIG__1_:RightHand
+    100080: Antigonous_19_RIG__1_:RightLeg
+    100082: Antigonous_19_RIG__1_:RightShoulder
+    100084: Antigonous_19_RIG__1_:RightToeBase
+    100086: Antigonous_19_RIG__1_:RightUpLeg
+    100088: Antigonous_19_RIG__1_:Spine
+    100090: Antigonous_19_RIG__1_:Spine1
+    100092: Antigonous_19_RIG__1_:Spine2
+    100094: Body
+    100096: Body1
+    100098: //RootNode
+    100100: Button_one
+    100102: Button_two
+    100104: group
+    100106: group1
+    100108: group2
+    100110: group3
+    100112: group4
+    100114: group5
+    100116: group6
+    100118: Hat
+    100120: pasted__pCube1
+    100122: pasted__pCube1 1
+    100124: pasted__pCube1 2
+    100126: pasted__pCube1 3
+    100128: pasted__pCylinder1
+    100130: pCube1
+    100132: pCylinder1
+    100134: pPipe1
+    100136: pPipe2
+    100138: pPipe3
+    100140: pSphere1
+    100142: pSphere2
+    100144: transform1
+    100146: transform10
+    100148: transform11
+    100150: transform12
+    100152: transform2
+    100154: transform3
+    100156: transform4
+    100158: transform5
+    100160: transform6
+    100162: transform7
+    100164: transform8
+    100166: transform9
+    400000: Antigonous_19_RIG__1_:Head
+    400002: Antigonous_19_RIG__1_:Hips
+    400004: Antigonous_19_RIG__1_:LeftArm
+    400006: Antigonous_19_RIG__1_:LeftFoot
+    400008: Antigonous_19_RIG__1_:LeftForeArm
+    400010: Antigonous_19_RIG__1_:LeftHand
+    400012: Antigonous_19_RIG__1_:LeftLeg
+    400014: Antigonous_19_RIG__1_:LeftShoulder
+    400016: Antigonous_19_RIG__1_:LeftToeBase
+    400018: Antigonous_19_RIG__1_:LeftUpLeg
+    400020: Antigonous_19_RIG__1_:Neck
+    400022: Antigonous_19_RIG__1_:QuickRigCharacter_Guides
+    400024: Antigonous_19_RIG__1_:QuickRigCharacter_Head
+    400026: Antigonous_19_RIG__1_:QuickRigCharacter_Hips
+    400028: Antigonous_19_RIG__1_:QuickRigCharacter_LeftArm
+    400030: Antigonous_19_RIG__1_:QuickRigCharacter_LeftFoot
+    400032: Antigonous_19_RIG__1_:QuickRigCharacter_LeftForeArm
+    400034: Antigonous_19_RIG__1_:QuickRigCharacter_LeftHand
+    400036: Antigonous_19_RIG__1_:QuickRigCharacter_LeftLeg
+    400038: Antigonous_19_RIG__1_:QuickRigCharacter_LeftShoulder
+    400040: Antigonous_19_RIG__1_:QuickRigCharacter_LeftToeBase
+    400042: Antigonous_19_RIG__1_:QuickRigCharacter_LeftUpLeg
+    400044: Antigonous_19_RIG__1_:QuickRigCharacter_Neck
+    400046: Antigonous_19_RIG__1_:QuickRigCharacter_Reference
+    400048: Antigonous_19_RIG__1_:QuickRigCharacter_RightArm
+    400050: Antigonous_19_RIG__1_:QuickRigCharacter_RightFoot
+    400052: Antigonous_19_RIG__1_:QuickRigCharacter_RightForeArm
+    400054: Antigonous_19_RIG__1_:QuickRigCharacter_RightHand
+    400056: Antigonous_19_RIG__1_:QuickRigCharacter_RightLeg
+    400058: Antigonous_19_RIG__1_:QuickRigCharacter_RightShoulder
+    400060: Antigonous_19_RIG__1_:QuickRigCharacter_RightToeBase
+    400062: Antigonous_19_RIG__1_:QuickRigCharacter_RightUpLeg
+    400064: Antigonous_19_RIG__1_:QuickRigCharacter_Spine
+    400066: Antigonous_19_RIG__1_:QuickRigCharacter_Spine1
+    400068: Antigonous_19_RIG__1_:QuickRigCharacter_Spine2
+    400070: Antigonous_19_RIG__1_:Reference
+    400072: Antigonous_19_RIG__1_:RightArm
+    400074: Antigonous_19_RIG__1_:RightFoot
+    400076: Antigonous_19_RIG__1_:RightForeArm
+    400078: Antigonous_19_RIG__1_:RightHand
+    400080: Antigonous_19_RIG__1_:RightLeg
+    400082: Antigonous_19_RIG__1_:RightShoulder
+    400084: Antigonous_19_RIG__1_:RightToeBase
+    400086: Antigonous_19_RIG__1_:RightUpLeg
+    400088: Antigonous_19_RIG__1_:Spine
+    400090: Antigonous_19_RIG__1_:Spine1
+    400092: Antigonous_19_RIG__1_:Spine2
+    400094: Body
+    400096: Body1
+    400098: //RootNode
+    400100: Button_one
+    400102: Button_two
+    400104: group
+    400106: group1
+    400108: group2
+    400110: group3
+    400112: group4
+    400114: group5
+    400116: group6
+    400118: Hat
+    400120: pasted__pCube1
+    400122: pasted__pCube1 1
+    400124: pasted__pCube1 2
+    400126: pasted__pCube1 3
+    400128: pasted__pCylinder1
+    400130: pCube1
+    400132: pCylinder1
+    400134: pPipe1
+    400136: pPipe2
+    400138: pPipe3
+    400140: pSphere1
+    400142: pSphere2
+    400144: transform1
+    400146: transform10
+    400148: transform11
+    400150: transform12
+    400152: transform2
+    400154: transform3
+    400156: transform4
+    400158: transform5
+    400160: transform6
+    400162: transform7
+    400164: transform8
+    400166: transform9
+    2300000: Body1
+    3300000: Body1
+    4300000: Body1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
